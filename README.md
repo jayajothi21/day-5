@@ -22,5 +22,4 @@ The ESP32 connects to the Wi-Fi network and displays the connection status and a
 * Understand basic ESP32 Wi-Fi functionality
 
 ## 🔗 Wokwi Project
-
-https://wokwi.com/projects/476377439277872129
+https://wokwi.com/projects/476580803829053441
